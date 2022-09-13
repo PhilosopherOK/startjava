@@ -1,7 +1,7 @@
 package alisherFinalProject;
 
 public enum Ship {
-    SHIP("🚣"), HIT("🎆"), MISS("⚓"), WATTER("♒");
+    SHIP("🚣"), HIT("🎆"), MISS("⚓"), WATTER("♒"), OREOL("\uD83C\uDFE5"), KILL("\uD83D\uDC80");
 
     //  🎆,⚓,🏊,♒,🚣
 

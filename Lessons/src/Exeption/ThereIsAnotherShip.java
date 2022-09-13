@@ -1,2 +1,4 @@
-package Exeption;public class ThereIsAnotherShip {
+package Exeption;
+
+public class ThereIsAnotherShip extends Exception{
 }
